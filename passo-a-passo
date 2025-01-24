@@ -1,0 +1,17 @@
+Desafio: Criar um Phishing para capturar senhas de login do Facebook usando o setoolkit.
+
+Segue o passo a passo dos processos executados para concluir o desafio em um LAB local.
+
+1 - Considerando que a maquina virtual já esteja devidamente configurada, vamos acessar o Kali com o usuário cadastrado;
+2 - Acessar aba de "Apps" e ir no item 13, referente a ferramentas de Engenharia Social e em seguida acessar o setoolkit;
+3 - Acessando a ferramenta, vamos escolher a primeira opção sendo os vetores de ataques phishing;
+4 - Em seguida, acesse a segunda opção referente a vetores de ataques web;
+5 - Por fim, selecione a terceira opção referente ao phishing de credencial e clonagem de website que vamos executar.
+6 - Apos selecionar a opção mencionada acima, nos dará outras três opções, porém neste desafio usaremos a segunda que refere-se a clonagem do site;
+7 - A ferramenta em questão nos sugere o uso do IP local da VM para ser usado no acesso http ao site clonado;
+8 - Em seguida insira a URI do site em questão, usando o "http". Exemplo: http://www.facebook.com
+9 - Apos o comando em questão o site já estará disponivel para acesso em outra maquina da mesma zona LAN que a VM.
+10 - Apos coleta de informação já será possivel ver o login e senha digitado. Imagem no abaixo:
+
+
+
