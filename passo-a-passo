@@ -11,7 +11,7 @@ Segue o passo a passo dos processos executados para concluir o desafio em um LAB
 7 - A ferramenta em questão nos sugere o uso do IP local da VM para ser usado no acesso http ao site clonado;
 8 - Em seguida insira a URI do site em questão, usando o "http". Exemplo: http://www.facebook.com
 9 - Apos o comando em questão o site já estará disponivel para acesso em outra maquina da mesma zona LAN que a VM.
-10 - Apos coleta de informação já será possivel ver o login e senha digitado. Imagem no abaixo:
+10 - Apos coleta de informação já será possivel ver o login e senha digitado. Imagem "return-setoolkit".
 
 
 
